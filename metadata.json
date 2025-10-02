@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator for Chemical Sheets",
+  "description": "An application to generate and download two distinct QR codes that link to chemical product information spreadsheets. The QR codes can be customized with a company logo.",
+  "requestFramePermissions": []
+}
